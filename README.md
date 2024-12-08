@@ -17,8 +17,5 @@ Check out our [FAQ section](https://smarthand.co) to find answers to common ques
 - **Email:** info@smarthand.com
 - **Phone:** +964770 155-9446
 
-We appreciate your feedback and thank you for choosing [Company Name]!
+We appreciate your feedback and thank you for choosing Smarthand
 
-[Download our app on the App Store](https://apps.apple.com/us/app/your-app-name/id123456789)
-
-[Download our app on the Google Play](https://play.google.com/store/apps/details?id=com.smarthand.ihsanburhan__a&hl=en&gl=US)
